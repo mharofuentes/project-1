@@ -18,7 +18,7 @@
     </header>
     <h2> About me </h2>
 	<p></p>
-	<h1>My name is Mitzi.I am from the southside of Chicago. I live right by Midway airport. I am currently a 3rd year ITM student. </h1>
+	<p>My name is Mitzi.I am from the southside of Chicago. I live right by Midway airport. I am currently a 3rd year ITM student. </h1>
 	<h2>Hobbies</h2>
 	<li>watching documentaries</li>
 	<li> learning about history</li>
@@ -27,7 +27,7 @@
 	<li>taking things apart and building stuff </li>
 	<p></p>
 	<h1>Other Things I like</h1>
-	<li> Fast food </li>
+	<li> Star Wars </li>
 	<li> the color purple </li>
 	<li> Taylor Swift </li>
 	<li> running</li>
@@ -36,10 +36,10 @@
 	<p></p>
 	<h2>Things I am not good at </h2>
 	<li> Java</li>
-	<li> public speaking<li>
-	<li> spelling <li>
+	<li> public speaking</li>
+	<li> spelling </li>
 	<li> time management</li>
-      <p
+      <p>
        <p></p>
   </body>
 </html>
