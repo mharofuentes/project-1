@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
   <head>
@@ -16,35 +16,39 @@
         </ul>
       </nav>
     </header>
-    <h1>Different types of Hamster Breeds/h1>
-      <h2>Syrian Hamster</h2>
-      <p>Traits: unsociable, calm, nocturnal,likes to be alone </p>
-      <p>Average lifespan: 2-3 years</p>
-	  <p>Average size: around 3-4 inches</p>
+    <h1>Mitzi Haro Resume</h1>
+      <h2>Contact Information</h2>
+      <p>(773)603-3207</p>
+      <p>mitziharo@gmail.com</p>
       <p></p>
       <h2>Education</h2>
-       <p></p>
-      <h2>Chinese Hamster</h2>
-      <p>Traits: quick,playful,high maintenance,hyperactive</p>
-	  <p>Average lifespan: 2-3 years</p>
-	  <p>Average size: 3-4 inches 
+        <li>Highschool: UCSN Hector P. Garcia M.D.</li>
+		<p></p>
+        <li>Bachelors: Information Technology and Management</li>
+		<li>Illinois Institute of Technology (expected graduation: Spring 2023)</li>
+		<li> Related course work: Java,Python,SQL,Project Management, Network Admin, Enterprise End-User Sys Admin  
+      <h2>Work Experience</h2>
+      <h3>Book Seller</h3>
 	  <p></p>
-	  <h2>Roborovski Hamster</h2>
-	  <p>Traits: sociable, fast, selfish, independent, like to live with other hamsters 
-	  <p>Average lifespan:2.5-3 years 
-	  <p>Average size: 2 inches </p>
+	  <li>IIT Barnes and Noble Bookstore, Chicago,IL </li>
+	  <li> January 2020-Present </li>
+	  <li>Organize and sell Textbooks</li>
 	  <p></p>
-	  <h2>Cambell Russian Hamster 
-	  <p> Traits: shy, affectionate, likes extremely quiet places, like hiding </p>
-	  <p>Average lifespan: 1.5-2 years </p>
-	  <p>Average size: 2-4 years </p>
+	  <h3>Galvin Libary Circulation Student Assistant</h3>
+	  <li>IIT Galvin Library, Chicago,IL </li>
+	  <li> Assist at main front desk, organize books. </li>
 	  <p></p>
+	  <h3>STEM Instructor</h3>
+	  <li>Arturo Velazquez Institute, Chicago,IL</li> 
+	  <li>July 2019 - December 2021</li>
+	  <li>Taught civil engineering to kids age 7-14</li>
 	  <p></p>
-	  <p>Hmaster housing<p>
-	  <li>All species of hamsters like big and spacious environment. Wired cages are bad. A big plastic container is better.</li>
-	  <li> Containers should be atleast 24 inches by 12 inches. Lots of places to hide is recommended. With fresh food and water daily.</li>
-	   <footer>
+	  <h3>Camp Counselor and Tutor </h3>
+	  <li> City Colleges of Chicago, Chicago, IL </li>
+	  <li> Summer of 2018,2019,2020</li>
+	  <li>Tutored and guided middle school age kids </li>
+	  </section>
+    <footer>
       </address>
     </footer>
   </body>
-
